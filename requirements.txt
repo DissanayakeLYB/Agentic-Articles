@@ -1,5 +1,7 @@
-transformers
-datasets
-beautifulsoup4
-requests
 selenium
+streamlit
+langchain 
+openai
+langchain-community
+groq
+python-dotenv
