@@ -1,2 +1,3 @@
-# Agentic-Articles
- A lightweight AI-powered agent that generates detailed articles based on user-specified topics. This project uses local language models like Ollama's LLaMA or Hugging Face Transformers to ensure flexibility and offline capabilities. Perfect for exploring AI agents and text generation.
+# ArticleAgent
+
+- This project features an AI-driven article generation tool built with Streamlit, Groq's language models, and Selenium-based web scraping. Users can generate well-structured articles on any topic and evaluate the AI-generated content using Quillbot's AI Detection tool. Perfect for exploring generative AI and content analysis in one streamlined workflow.
