@@ -80,11 +80,11 @@ streamlit run Agent.py
 
 ### **Main Interface**
 
-![Main Interface](https://github.com/DissanayakeLYB/Agentic-Articles/main-interface.png)
+![Main Interface](https://github.com/DissanayakeLYB/Agentic-Articles/blob/main/main-interface.png?raw=true)
 
 ### **Generated Article**
 
-![Generated Article](https://github.com/DissanayakeLYB/Agentic-Articles/generated_article.pn)
+![Generated Article](https://github.com/DissanayakeLYB/Agentic-Articles/blob/main/generated_article.png?raw=true)
 
 ---
 
