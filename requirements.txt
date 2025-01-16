@@ -5,3 +5,4 @@ openai
 langchain-community
 groq
 python-dotenv
+undetected-chromedriver
